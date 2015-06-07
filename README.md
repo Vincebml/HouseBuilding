@@ -1,0 +1,2 @@
+### HouseBuilding
+A PHP solution to a problem found on [Topcoder.com](http://www.topcoder.com). You can have a look at the problem statement here : http://community.topcoder.com/stat?c=problem_statement&pm=12396.
